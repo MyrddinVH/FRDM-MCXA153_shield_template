@@ -156,6 +156,7 @@
 	(net 72 "unconnected-(U1-P1_1-Pad74)")
 	(net 73 "SCl")
 	(net 74 "unconnected-(U1-P1_3-Pad76)")
+	(net 75 "unconnected-(U1-NC-Pad35)")
 	(footprint "MountingHole:MOUNTINGHOLE_3.2MM_M3"
 		(layer "F.Cu")
 		(uuid "0d02fba1-5bd4-4aa3-8e74-ac2c1ade4499")
@@ -833,17 +834,6 @@
 			(uuid "a6585b43-53e7-430f-afa4-a16b49526543")
 		)
 		(pad "34" thru_hole oval
-			(at 38.1 -9.14 90)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net 30 "unconnected-(U1-P1_8-Pad34)")
-			(pinfunction "P1_8")
-			(pintype "bidirectional")
-			(uuid "b57a7d9f-7c29-4284-8b40-a346a7355b17")
-		)
-		(pad "34" thru_hole oval
 			(at 40.64 -6.6 90)
 			(size 1.7 1.7)
 			(drill 1)
@@ -853,6 +843,17 @@
 			(pinfunction "P1_8")
 			(pintype "bidirectional")
 			(uuid "c5ecc257-d04f-4655-ad41-336c27ab1ab8")
+		)
+		(pad "35" thru_hole oval
+			(at 38.1 -9.14 90)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net 75 "unconnected-(U1-NC-Pad35)")
+			(pinfunction "NC")
+			(pintype "no_connect")
+			(uuid "b57a7d9f-7c29-4284-8b40-a346a7355b17")
 		)
 		(pad "36" thru_hole oval
 			(at 40.64 -9.14 90)
