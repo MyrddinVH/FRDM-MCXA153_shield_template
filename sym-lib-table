@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "frdm-mcxa153")(type "KiCad")(uri "${KIPRJMOD}/frdm-mcxa153.kicad_sym")(options "")(descr ""))
-)
