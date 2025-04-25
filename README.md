@@ -4,4 +4,4 @@ For easy use i added a template folder (the zipped folder), in order to use this
 
 tested and it fits (25/04/2025)
 
-![pcb image1](https://imgur.com/a/zVi5jJS)
+![pcb image1](https://github.com/MyrddinVH/FRDM-MCXA153_shield_template/blob/main/images/pcb_fits_yippie.jpg)
